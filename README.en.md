@@ -1,36 +1,16 @@
-# 狗头OS
+# Doghead OS
 
-#### Description
-狗头OS（Dog Head OS），是小青大大yy狗头OS开发团队基于PPT+（.ppsx放映）内核的娱乐操作系统，未来可能考虑使用C、易语言或Java进行编辑。
+#### Introduction
+Dog Head OS is an entertainment operating system based on the PPT+(.ppsx show) kernel of Xiaoqing Dada yy Dog Head OS development team (C, Yi language or Java may be considered for editing in the future),
 
-#### Software Architecture
+#### Software architecture
 Software architecture description
 
-#### Installation
+#### Installation Tutorial
+1. Download the.ppsx file
+2. Double click to open the file
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### Open Source Description
+1. Change the suffix of this file to. ppt for editing
+2. Must be marked with © Xiaoqing Dada yy&blue block, all rights reserved
+3. External distribution must be approved by Xiaoqing Dada yy and Xiaoqing Dada yy's Goutou OS development team
