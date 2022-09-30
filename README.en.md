@@ -3,8 +3,8 @@
 #### Introduction
 Dog Head OS is an entertainment operating system based on the PPT+(.ppsx show) kernel of Xiaoqing Dada yy Dog Head OS development team (C, Yi language or Java may be considered for editing in the future),
 
-#### Software architecture
-Software architecture description
+#### Download
+Please refer to our wiki for details
 
 #### Installation Tutorial
 1. Download the.ppsx file
