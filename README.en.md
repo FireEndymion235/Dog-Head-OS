@@ -1,16 +1,25 @@
 # Doghead OS
 
 #### Introduction
-Dog Head OS is an entertainment operating system based on the PPT+(.ppsx show) kernel of Xiaoqing Dada yy Dog Head OS development team (C, Yi language or Java may be considered for editing in the future),
+Dog Head OS entertainment operating system (Dog Head OS), is Xiaoqing big yy Dog head OS development team based on PPT+ (.ppsx show) kernel entertainment operating system (the future may consider using C, easy language or Java to edit), I hope you give a lot of tips, support us, thank you!
+![appreciate pictures](7ffc2ed55b1b711adf9c12a0854ea08.jpg)
 
-#### Download
-Please refer to our wiki for details
+#### download
+See the Wiki for details.
 
-#### Installation Tutorial
+#### installation tutorial
+
 1. Download the.ppsx file
-2. Double click to open the file
+2. Double-click the file to open it
 
-#### Open Source Description
-1. Change the suffix of this file to. ppt for editing
-2. Must be marked with © Xiaoqing Dada yy&blue block, all rights reserved
-3. External distribution must be approved by Xiaoqing Dada yy and Xiaoqing Dada yy's Goutou OS development team
+#### Open source notes
+
+1. Change the file suffix to.ppt to edit it
+2. Must be noted © Xiaoqing Dada yy & blue block, all rights reserved
+3. External distribution must be approved by Xiaoqingda yy and Xiaoqingda yy Doghead OS development team
+4. XiaoQing greatly yy FanBook official BBS invite url: https://fanbook.mobi/NMNGMFG8
+
+#### One More Thing...
+A completely new system written in C...... is currently under consideration
+If you are willing (volunteer), you can come and join us!
+Stay tuned!
