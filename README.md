@@ -17,6 +17,6 @@
 1.  把此文件后缀改为.ppt即可进行编辑
 2.  必须注有©晓青大大yy & blue block，保留一切权利
 3.  对外发行必须经过晓青大大yy、晓青大大yy狗头OS开发团队的许可
-
+4.  晓青大大yy FanBook官方论坛邀请网址：https://fanbook.mobi/NMNGMFG8
 
 
