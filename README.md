@@ -2,7 +2,7 @@
 
 #### 介绍
 狗头OS娱乐操作系统（Dog Head OS），是晓青大大yy狗头OS开发团队基于PPT+（.ppsx放映）内核的娱乐操作系统（未来可能会考虑使用C、易语言或Java进行编辑），希望大家多多打赏，支持我们，谢谢！
-![赞赏图片](lADPJxDjzas8b83NBIDNBIA_1152_1152.jpg)
+![赞赏图片](7ffc2ed55b1b711adf9c12a0854ea08.jpg)
 
 #### 下载
 详见Wiki。
